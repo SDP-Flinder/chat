@@ -1,1 +1,1 @@
-# chat
+# Flinder Chat Server
